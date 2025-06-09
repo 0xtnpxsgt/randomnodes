@@ -4,7 +4,7 @@
 ```
 synchronizer init
 ```
-### Step:2 Pull Docker Image
+### Step:2 Create Directory & Intances
 ```
 mkdir -p /root/.synchronizer-cli-instance-01
 cp -r /root/.synchronizer-cli/* /root/.synchronizer-cli-instance-01/
