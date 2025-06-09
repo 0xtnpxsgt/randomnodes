@@ -128,7 +128,7 @@ sudo systemctl start synchronizer-cli-03
 ```
 
 
-- CHECK IF YOUR DOCKER IS RUNNING ON PROXY
-docker exec synchronizer-cli-01 curl -v https://api.ipify.org
-docker exec synchronizer-cli-02 curl -v https://api.ipify.org
-docker exec synchronizer-cli-03 curl -v https://api.ipify.org
+## CHECK IF YOUR DOCKER IS RUNNING ON PROXY
+- docker exec synchronizer-cli-01 curl -v https://api.ipify.org
+- docker exec synchronizer-cli-02 curl -v https://api.ipify.org
+- docker exec synchronizer-cli-03 curl -v https://api.ipify.org
